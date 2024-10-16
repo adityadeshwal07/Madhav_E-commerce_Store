@@ -1,2 +1,3 @@
-# Madhav_E-commerce_Store
-Developed an interactive eCommerce sales dashboard using Power BI to track key metrics like total sales, profits, product performance, and customer trends. Used data transformation and DAX for accurate insights. Enabled drill-throughs, filters, and regional analysis to enhance business decisions and monitor revenue growth effectively.
+Project Title: Madhav E-Commerce Sales Dashboard using Power BI
+
+Description: I have developed a dynamic eCommerce sales dashboard in Power BI to visualize key performance indicators (KPIs) such as total sales, profit margins, product-wise performance, and customer segmentation. The dashboard provides interactive insights through features like slicers, filters, and drill-throughs to analyze regional sales trends, track order statuses, and monitor monthly/quarterly revenue. Data cleaning, transformation, and DAX calculations were utilized to ensure accurate reporting. This project aimed to enhance decision-making by providing a comprehensive overview of business performance.
